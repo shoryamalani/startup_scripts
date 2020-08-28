@@ -1,7 +1,9 @@
 This is for macos if you want something like this for linux I will make one just add it to the issues page.
-Are you starting out or know someone who is starting to learn to code. These two scripts will get you from literally nothing installed to almost a full developer setup.
+Are you starting out or know someone who is starting to learn to code. These two scripts will get you from 
 
-##DO THIS IN AN ADMIN ACCOUNT
+literally nothing installed to almost a full developer setup.
+
+DO THIS IN AN ADMIN ACCOUNT
 
 If you have any issues put them as an issue on github I am happy to help.
 
