@@ -9,3 +9,5 @@ echo "if you reanamed your ssh file then run this command with the new file name
 ssh-add -K ~/.ssh/id_rsa
 echo "if you see Error:ssh-add:illegal option --k run the following command ssh-add ~/.ssh/id_rsa(if you changed the file name you still have to do that)"
 echo "after that try this https://docs.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account"
+fish
+cat ~/.ssh/id_rsa.pub | pbcopy

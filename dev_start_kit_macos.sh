@@ -14,3 +14,4 @@ echo "source /usr/local/share/autojump/autojump.fish" >> ~/.config/fish/config.f
 echo "# changing LS colors" >> ~/.config/fish/config.fish
 echo "set -Ux LSCOLORS gxfxbEaEBxxEhEhBaDaCaD" >> ~/.config/fish/config.fish
 brew cask install iterm2
+mkdir ~/Documents/code
