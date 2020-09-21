@@ -5,7 +5,9 @@ sudo apt install autojump
 echo “if you need java type in this : sudo apt install default-jre”
 sudo apt install xclip
 sudo apt install curl
+sudo apt install direnv
 curl https://git.io/fisher —create-dirs -sLo ~/.config/fish/functions/fisher.fish
+
 fisher
 fisher add oh-my-fish/theme-bobthefish
 cd ~/.config/fish
